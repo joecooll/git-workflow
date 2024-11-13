@@ -1,0 +1,2 @@
+test demo text from Feature B
+fix bug in version 1.0.0
