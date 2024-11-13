@@ -1,1 +1,4 @@
 *.zip
+.env
+node_modules
+bin
